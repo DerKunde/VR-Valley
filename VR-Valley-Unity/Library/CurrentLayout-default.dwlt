@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Project
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 132
+  controlID: 57
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -151,7 +151,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -385,7 +385,7 @@ MonoBehaviour:
     height: 310
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
-    m_NameFilter: Teleporting
+    m_NameFilter: 
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -396,19 +396,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Materials
   m_ViewMode: 1
   m_StartGridSize: 76
   m_LastFolders:
-  - Assets
+  - Assets/Materials
   m_LastFoldersGridSize: 76
   m_LastProjectPath: C:\Projekte\VR_Valley_Repo\VR-Valley\VR-Valley-Unity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
+    m_SelectedIDs: 344f0000
+    m_LastClickedID: 20276
     m_ExpandedIDs: 00000000763c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -464,7 +465,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000545a000000000000083b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -560,9 +561,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 68fbffff
+      m_SelectedIDs: d63c0000
+      m_LastClickedID: 15574
+      m_ExpandedIDs: bcf4ffffe0f4ffffc0f7ffffe4f7ffff68fbfffff4ffffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -622,9 +623,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.1238489, y: -1.152751, z: 2.248867}
+    m_Target: {x: 0.06381276, y: 0.12874365, z: -0.20247145}
     speed: 2
-    m_Value: {x: -0.1238489, y: -1.152751, z: 2.248867}
+    m_Value: {x: 0.06381276, y: 0.12874365, z: -0.20247145}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -670,13 +671,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.34291056, y: 0.3371983, z: -0.13343582, w: -0.8665528}
+    m_Target: {x: 0.2699238, y: -0.0040415316, z: 0.0010992172, w: 0.9628998}
     speed: 2
-    m_Value: {x: -0.34290898, y: 0.3371967, z: -0.13343519, w: -0.8665488}
+    m_Value: {x: 0.2699167, y: -0.0040414254, z: 0.0010991883, w: 0.96287453}
   m_Size:
-    m_Target: 5.107395
+    m_Target: 0.90739506
     speed: 2
-    m_Value: 5.107395
+    m_Value: 0.90739506
   m_Ortho:
     m_Target: 0
     speed: 2
